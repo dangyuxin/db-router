@@ -8,8 +8,6 @@
     <artifactId>db-router-spring-boot-starter</artifactId>
     <version>1.0.4</version>
 
-    <packaging>jar</packaging>
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
